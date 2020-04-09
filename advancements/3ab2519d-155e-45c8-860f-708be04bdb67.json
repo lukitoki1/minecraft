@@ -215,9 +215,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2020-04-07 22:25:25 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2019-08-24 12:43:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2020-04-07 22:20:43 +0200"
     },
     "done": true
   },
@@ -1386,12 +1398,14 @@
     "criteria": {
       "minecraft:mountains": "2019-08-21 20:18:29 +0200",
       "minecraft:forest": "2019-08-21 20:18:46 +0200",
+      "minecraft:badlands_plateau": "2020-04-07 22:19:26 +0200",
       "minecraft:taiga": "2019-09-01 14:10:43 +0200",
       "minecraft:desert_hills": "2020-03-07 00:03:57 +0100",
       "minecraft:taiga_hills": "2019-09-01 14:09:43 +0200",
       "minecraft:desert": "2019-09-08 16:39:20 +0200",
       "minecraft:birch_forest": "2019-09-08 16:53:53 +0200",
       "minecraft:badlands": "2019-09-08 16:39:34 +0200",
+      "minecraft:savanna_plateau": "2020-04-08 19:10:45 +0200",
       "minecraft:beach": "2019-09-01 14:09:15 +0200",
       "minecraft:dark_forest": "2019-08-31 14:35:27 +0200",
       "minecraft:lukewarm_ocean": "2019-09-01 14:14:01 +0200",
@@ -1402,6 +1416,7 @@
       "minecraft:stone_shore": "2019-09-08 16:50:40 +0200",
       "minecraft:wooded_badlands_plateau": "2020-03-13 21:33:08 +0100",
       "minecraft:swamp": "2019-09-08 16:35:33 +0200",
+      "minecraft:savanna": "2020-04-08 19:10:26 +0200",
       "minecraft:plains": "2019-08-21 21:24:38 +0200"
     },
     "done": false
@@ -1499,6 +1514,12 @@
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-09-01 11:02:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-04-08 19:07:49 +0200"
     },
     "done": true
   },
@@ -2264,6 +2285,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2020-04-07 22:22:25 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2019-08-21 22:19:01 +0200"
@@ -2771,6 +2798,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2020-02-15 16:50:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2020-04-07 22:20:43 +0200"
     },
     "done": true
   },
