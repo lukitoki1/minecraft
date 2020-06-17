@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2020-06-03 21:47:21 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2019-08-31 14:27:43 +0200"
@@ -791,6 +797,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2020-06-03 21:47:21 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2019-09-01 10:27:23 +0200"
@@ -1403,14 +1415,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2020-06-03 22:10:45 +0200",
       "minecraft:mountains": "2019-08-21 20:18:29 +0200",
       "minecraft:forest": "2019-08-21 20:18:46 +0200",
       "minecraft:badlands_plateau": "2020-04-07 22:19:26 +0200",
       "minecraft:taiga": "2019-09-01 14:10:43 +0200",
       "minecraft:desert_hills": "2020-03-07 00:03:57 +0100",
+      "minecraft:deep_cold_ocean": "2020-06-03 22:10:47 +0200",
       "minecraft:taiga_hills": "2019-09-01 14:09:43 +0200",
       "minecraft:desert": "2019-09-08 16:39:20 +0200",
+      "minecraft:jungle": "2020-06-03 21:45:22 +0200",
       "minecraft:birch_forest": "2019-09-08 16:53:53 +0200",
+      "minecraft:jungle_hills": "2020-06-03 21:45:30 +0200",
       "minecraft:badlands": "2019-09-08 16:39:34 +0200",
       "minecraft:savanna_plateau": "2020-04-08 19:10:45 +0200",
       "minecraft:beach": "2019-09-01 14:09:15 +0200",
@@ -1602,6 +1618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2020-06-10 09:41:15 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2019-08-31 14:26:41 +0200"
@@ -1623,6 +1645,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2019-08-22 20:29:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2020-06-03 21:46:05 +0200"
     },
     "done": true
   },
@@ -1950,6 +1978,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2020-06-03 11:25:22 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2019-08-21 21:15:57 +0200"
@@ -2029,6 +2063,7 @@
       "porkchop": "2020-03-27 21:09:14 +0100",
       "apple": "2019-08-24 13:04:23 +0200",
       "mutton": "2020-03-27 21:09:27 +0100",
+      "bread": "2020-04-19 11:28:06 +0200",
       "rotten_flesh": "2019-09-09 19:41:06 +0200",
       "carrot": "2019-09-08 10:24:55 +0200"
     },
@@ -2754,6 +2789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2020-06-03 21:46:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2019-08-21 21:29:07 +0200"
@@ -3090,6 +3131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2020-06-03 22:08:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2019-08-21 22:20:56 +0200"
@@ -3273,6 +3320,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2019-08-22 20:29:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2020-06-03 21:47:21 +0200"
     },
     "done": true
   },
