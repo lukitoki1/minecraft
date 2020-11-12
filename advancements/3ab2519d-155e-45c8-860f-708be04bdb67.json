@@ -331,7 +331,7 @@
   },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
-      "has_logs": "2019-09-01 10:33:29 +0200"
+      "has_log": "2020-06-26 20:14:35 +0200"
     },
     "done": true
   },
@@ -452,12 +452,6 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2020-03-29 16:23:00 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/composter": {
-    "criteria": {
-      "has_wood_slab": "2020-03-06 22:30:59 +0100"
     },
     "done": true
   },
@@ -585,7 +579,7 @@
   },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
-      "has_log": "2020-03-07 12:29:50 +0100"
+      "has_logs": "2020-07-09 10:38:43 +0200"
     },
     "done": true
   },
@@ -871,6 +865,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2020-08-07 10:39:28 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2019-08-21 21:12:54 +0200"
@@ -1081,6 +1081,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2020-08-04 11:56:27 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2020-03-07 12:29:50 +0100"
@@ -1125,7 +1131,13 @@
   },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
-      "has_log": "2019-08-22 21:20:19 +0200"
+      "has_logs": "2020-06-25 16:55:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2020-06-28 00:13:51 +0200"
     },
     "done": true
   },
@@ -1168,6 +1180,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2020-03-13 19:28:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2020-08-04 11:56:27 +0200"
     },
     "done": true
   },
@@ -1221,7 +1239,7 @@
   },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
-      "has_log": "2019-08-24 11:42:05 +0200"
+      "has_logs": "2020-06-25 09:24:34 +0200"
     },
     "done": true
   },
@@ -1237,21 +1255,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_string": "2019-08-21 22:25:47 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-03-07 00:19:06 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
-    "criteria": {
-      "has_oramge_dye": "2020-03-31 17:29:35 +0200"
     },
     "done": true
   },
@@ -1504,6 +1510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2020-06-25 09:23:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2019-08-21 21:10:01 +0200"
@@ -1612,6 +1624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-06-25 09:23:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2020-03-07 13:41:22 +0100"
@@ -1654,9 +1672,23 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2020-08-04 10:53:00 +0200",
+      "minecraft:nether_wastes": "2020-06-28 00:08:36 +0200",
+      "minecraft:soul_sand_valley": "2020-08-04 10:51:59 +0200"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2020-03-07 00:19:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2020-08-04 11:56:15 +0200"
     },
     "done": true
   },
@@ -1738,6 +1770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2020-08-04 11:56:15 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2020-03-27 21:09:21 +0100"
@@ -1747,6 +1785,12 @@
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2020-03-29 16:25:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2020-08-04 10:52:03 +0200"
     },
     "done": true
   },
@@ -2306,6 +2350,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2019-08-21 22:20:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2020-06-25 16:49:03 +0200"
     },
     "done": true
   },
@@ -2969,6 +3019,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_brown_dye": "2020-08-04 12:18:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_white_dye": "2019-08-21 21:25:58 +0200"
@@ -3110,6 +3166,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2019-08-22 20:29:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2020-03-06 22:30:59 +0100"
     },
     "done": true
   },
@@ -3317,6 +3379,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2020-06-23 18:20:28 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2019-08-22 20:29:30 +0200"
@@ -3365,5 +3433,5 @@
     },
     "done": true
   },
-  "DataVersion": 2230
+  "DataVersion": 2584
 }
