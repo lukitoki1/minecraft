@@ -1788,6 +1788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_white_flower": "2021-02-26 15:36:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2020-08-04 10:52:03 +0200"
@@ -2671,6 +2677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2021-02-20 15:19:00 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-08-31 14:33:24 +0200"
@@ -3433,5 +3445,5 @@
     },
     "done": true
   },
-  "DataVersion": 2584
+  "DataVersion": 2586
 }
