@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2021-04-03 00:01:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2019-08-31 14:26:41 +0200"
@@ -1288,6 +1294,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2019-09-11 18:28:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2021-03-29 20:35:00 +0200"
     },
     "done": true
   },
@@ -2404,7 +2416,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2019-09-12 23:52:43 +0200"
+      "minecraft:cow": "2019-09-12 23:52:43 +0200",
+      "minecraft:bee": "2021-03-31 20:58:03 +0200"
     },
     "done": false
   },
@@ -3407,6 +3420,18 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2020-03-29 16:27:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2021-03-31 20:40:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2021-04-03 00:01:57 +0200"
     },
     "done": true
   },
