@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2022-04-01 18:23:08 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2022-03-15 19:52:59 +0100"
@@ -218,6 +224,12 @@
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2022-03-19 23:23:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2022-04-01 18:00:00 +0200"
     },
     "done": true
   },
@@ -377,6 +389,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2022-04-01 22:41:21 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2022-03-17 23:50:35 +0100"
@@ -410,6 +428,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2022-03-15 22:39:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2022-04-01 21:34:03 +0200"
     },
     "done": true
   },
@@ -539,6 +563,15 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2022-04-01 22:30:33 +0200",
+      "minecraft:creeper": "2022-04-01 22:43:13 +0200",
+      "minecraft:enderman": "2022-04-01 23:06:04 +0200",
+      "minecraft:zombie": "2022-04-01 22:30:29 +0200"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2022-03-17 23:50:50 +0100"
@@ -608,6 +641,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2022-03-15 19:52:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_helmet": "2022-04-01 22:41:21 +0200"
     },
     "done": true
   },
@@ -953,6 +992,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2022-04-01 23:03:36 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2022-03-20 23:20:34 +0100"
@@ -1043,6 +1088,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_helmet": "2022-04-01 22:41:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2022-04-01 22:30:29 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_terracotta": "2022-03-19 23:23:39 +0100"
@@ -1094,6 +1151,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2022-03-18 22:52:23 +0100",
+      "minecraft:deep_ocean": "2022-04-01 17:58:29 +0200",
       "minecraft:sunflower_plains": "2022-03-20 14:42:47 +0100",
       "minecraft:windswept_hills": "2022-03-15 19:52:59 +0100",
       "minecraft:wooded_badlands": "2022-03-19 23:27:30 +0100",
@@ -1103,6 +1161,7 @@
       "minecraft:lukewarm_ocean": "2022-03-20 14:54:14 +0100",
       "minecraft:forest": "2022-03-15 20:09:20 +0100",
       "minecraft:windswept_forest": "2022-03-15 20:10:34 +0100",
+      "minecraft:ocean": "2022-04-01 18:01:34 +0200",
       "minecraft:deep_lukewarm_ocean": "2022-03-20 14:54:32 +0100",
       "minecraft:flower_forest": "2022-03-20 14:43:16 +0100",
       "minecraft:old_growth_birch_forest": "2022-03-20 14:41:04 +0100",
@@ -1663,6 +1722,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2022-04-01 22:46:53 +0200"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2022-03-15 19:52:59 +0100"
@@ -1916,6 +1981,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-04-01 22:46:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2022-03-15 20:11:28 +0100"
@@ -2039,6 +2110,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2022-03-19 23:24:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2022-04-01 18:00:38 +0200"
     },
     "done": true
   },
@@ -2579,6 +2656,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2022-03-25 22:29:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2022-04-01 18:23:09 +0200"
     },
     "done": true
   },
