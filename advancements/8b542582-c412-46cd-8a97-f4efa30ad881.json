@@ -1358,7 +1358,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2022-03-19 23:24:20 +0100"
+      "minecraft:nether_wastes": "2022-03-19 23:24:20 +0100",
+      "minecraft:soul_sand_valley": "2022-04-05 17:46:55 +0200"
     },
     "done": false
   },
@@ -2314,6 +2315,12 @@
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2022-03-31 20:22:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-04-05 17:51:52 +0200"
     },
     "done": true
   },
