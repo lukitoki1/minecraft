@@ -2060,6 +2060,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2024-02-04 15:38:18 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2022-03-17 23:50:50 +0100"
@@ -2438,6 +2444,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2022-03-25 22:20:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-02-05 20:42:17 +0100"
     },
     "done": true
   },
